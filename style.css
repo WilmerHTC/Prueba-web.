@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color:black;
+    color:white;
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+main{
+    background-color:white;
+    height: 80vh;
+    display:contents;
+}
+footer{
+    background-color:blueviolet;
+    color:white;
+    height: 10vh;
+}
+article{
+    border:1px border solid black;
+    background-color: blue;
+    width: 25%;
+}
